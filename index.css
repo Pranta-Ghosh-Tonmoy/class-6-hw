@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+    text-decoration: none;
+}
+
+.creative_logo{
+    width: 135px;
+}
+
+li{display: inline-block;
+}
+
+.div1{
+    background-color: #f0f0f0;
+    padding-left: 45%;
+    padding-bottom: 30px;
+    padding-top: 25px;
+    
+}
+
+.nav2{ background-color: white;
+    list-style-type: none;  
+    margin-bottom: 30px;
+    margin-top: 25px;   
+    margin-left: 15px;   
+}
+
+nav ul li a{
+    padding:20px 48px;
+    margin: 0px 2px;    
+}
+
+nav ul li a:hover{
+    background-color: #ee2f25;
+    color: #f0f0f0;
+    transition: 0.6s;
+}
+
+nav ul li a.active{
+       background: red;
+}
+
+
+.headline1_part2{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 85;
+    font-weight: 600;
+}
+
+.about_us{
+    text-align: center ;
+    padding-top: 75px;
+}
+
+.about_us_des{
+    text-align: justify;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 150px;
+
+}
+
+
+.সাফল্যের_গল্প{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.সাফল্যের_গল্প_headline{
+    padding: 70px;
+    text-align: justify;
+}
+
+.আমাদের_মেন্টরস{
+    text-align: center;
+    padding-top: 70px;
+}
